@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [StupidWallet](https://stupidwalletbot.t.me/)
 
-- 📫 How to reach me **https://darkywolf17.t.me**
-
 - ⚡ Fun fact **most of python code will work if you came from JS and typing the (); everywhere**
 
 <h3 align="left">Languages and Tools:</h3>
