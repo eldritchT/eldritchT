@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm eldritchT</h1>
-<h3 align="center">Python coder, average TON enjoyer</h3>
+<h3 align="center">Python coder, average Murder Drones enjoyer</h3>
 
 - 🔭 I’m currently working on **OpenWAV**
 
